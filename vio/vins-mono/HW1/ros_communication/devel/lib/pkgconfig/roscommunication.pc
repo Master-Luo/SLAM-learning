@@ -1,0 +1,8 @@
+prefix=/media/monster/学习资料/网课/Vins-mono/HW1/ros1/devel
+
+Name: roscommunication
+Description: Description of roscommunication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="roscommunication" type="publisher" name="string_publisher" />
+  <node pkg="roscommunication" type="subscriber" name="string_subscriber" />
+</launch>
